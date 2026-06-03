@@ -1,0 +1,6 @@
+{
+  "name": "Keuangan Masjid",
+  "description": "Aplikasi pencatatan keuangan masjid (pemasukan dan pengeluaran kas) secara transparan dan mudah digunakan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Keuangan Masjid</string>
+    <string name="title_dashboard">Dashboard Keuangan</string>
+    <string name="label_current_balance">Saldo Kas Masjid</string>
+    <string name="label_total_income">Total Pemasukan (Kas Masuk)</string>
+    <string name="label_total_expense">Total Pengeluaran (Kas Keluar)</string>
+    <string name="tab_all">Semua</string>
+    <string name="tab_income">Pemasukan</string>
+    <string name="tab_expense">Pengeluaran</string>
+    <string name="btn_add_transaction">Tambah Transaksi</string>
+    <string name="btn_cancel">Batal</string>
+    <string name="btn_save">Simpan</string>
+    <string name="hint_search">Cari deskripsi transaksi...</string>
+    <string name="title_add_dialog">Tambah Kas Baru</string>
+    <string name="label_transaction_type">Tipe Transaksi</string>
+    <string name="label_description">Sebab / Deskripsi</string>
+    <string name="label_amount">Nominal (Rp)</string>
+    <string name="label_category">Kategori</string>
+    <string name="label_date">Tanggal</string>
+    <string name="error_empty_description">Deskripsi harus diisi!</string>
+    <string name="error_invalid_amount">Nominal harus lebih dari 0!</string>
+    <string name="empty_state_title">Belum ada transaksi</string>
+    <string name="empty_state_desc">Silakan tambahkan data transaksi kas masjid pertama Anda.</string>
+</resources>
